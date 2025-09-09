@@ -6,5 +6,16 @@ return {
         position = "float",
       },
     },
+    picker = {
+      sources = {
+        explorer = {
+          layout = {
+            layout = {
+              width = 25,
+            },
+          },
+        },
+      },
+    },
   },
 }
